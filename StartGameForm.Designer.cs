@@ -1,6 +1,6 @@
 ﻿namespace DragonBattle
 {
-    partial class Form1
+    partial class StartGameForm
     {
         /// <summary>
         ///  Required designer variable.
